@@ -1,0 +1,2 @@
+# UnityPitchControllDemo
+AudioClipの再生時に、何らかの値を基にしてピッチをコントロールする例
